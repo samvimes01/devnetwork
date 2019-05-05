@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dbuser:dbuser123@devconnector-xhjql.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "supersecrettoken"
+}
