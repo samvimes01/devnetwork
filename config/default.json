@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://dbuser:dbuser123@devconnector-xhjql.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "supersecrettoken"
+  "jwtSecret": "supersecrettoken",
+  "githubClientId": "263c382cac8595267045",
+  "githubSecret": "1ec4aab6585ab80df76311399f72c036a8895847"
 }
