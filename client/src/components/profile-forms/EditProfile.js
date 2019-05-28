@@ -61,7 +61,7 @@ const EditProfile = ({ profile: { profile, loading }, createProfile, getCurrentP
 
   const onSubmit = (event) => {
     event.preventDefault();
-    createProfile(formData, history);
+    createProfile(formData, history, true);
   };
 
   return (
